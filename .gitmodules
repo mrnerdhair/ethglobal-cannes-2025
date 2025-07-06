@@ -1,0 +1,6 @@
+[submodule "JCMathLib"]
+	path = JCMathLib
+	url = https://github.com/mrnerdhair/JCMathLib
+[submodule "ledger-app-boilerplate"]
+	path = ledger-app-boilerplate
+	url = https://github.com/mrnerdhair/ledger-app-boilerplate
